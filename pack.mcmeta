@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "§2Provided by §aLuckyLuuk_ §2& §aCastilloNLDE"
+    "pack_format": 34,
+    "description": "§2Provided by §aLuckyLuuk_",
+	"supported_formats":[1,61]
   }
 }

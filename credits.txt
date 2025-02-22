@@ -1,0 +1,2 @@
+Trident		: 	https://www.planetminecraft.com/texture-pack/trident-of-poseidon/
+Entities	:	https://www.curseforge.com/minecraft/texture-packs/fresh-animations 
