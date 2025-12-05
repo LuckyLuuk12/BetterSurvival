@@ -1,6 +1,6 @@
 {
     "parent":"block/spruce_fixed",
     "textures": {
-	"bushy": "block/spruce_bushy"
+	"bushy": "block/mangrove_bushy"
     }
 }

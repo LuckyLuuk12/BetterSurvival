@@ -1,6 +1,6 @@
 {
     "parent":"block/default_fixed",
     "textures": {
-	"bushy": "block/azalea_bushy"
+	"bushy": "block/pale_oak_bushy"
     }
 }
