@@ -1,0 +1,12 @@
+{
+  "entity.creeper.primed": {
+    "sounds": [
+      "custom/creeper_fuse"
+    ]
+  },
+  "entity.generic.explode": {
+    "sounds": [
+      "custom/explosion"
+    ]
+  }
+}

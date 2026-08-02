@@ -1,0 +1,25 @@
+{
+    id: "betterSMP",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+		emmissive: true,
+		paintings: true,
+		environment: true,
+		gui: false,
+		enchantedGlint: true,
+		pumpkinBlur: true,
+		lessArmor: false,
+		trident: true,
+		leaves: true,
+        creepers: true,
+		secret: true,
+		villagers: true,
+		wolves: true,
+		clearerTraps: true,
+		smoothBedrock: true,
+		higherPath: true,
+		map: true,
+		breakParticles: true,
+    }
+}
